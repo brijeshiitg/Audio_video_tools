@@ -1,6 +1,6 @@
 # Audio_video_tools
  
- "audio_video_tutorial.py" provides basic operations for videos.
+ "audio_video.py" provides basic operations for videos.
  It contains five functions:
 
 ## 1. extract_image_sequence(video_file, image_sequence_path):
